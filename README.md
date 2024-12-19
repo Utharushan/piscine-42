@@ -1,4 +1,4 @@
-# Piscine 42 - Exercises
+# Piscine 42
 
 ## Description
 
