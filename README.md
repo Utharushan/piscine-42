@@ -1,9 +1,22 @@
-# Ecole 42
-École 42, founded by Xavier Niel in 2013, is an innovative, tuition-free coding school based in Paris with global campuses.\
-It emphasizes peer-to-peer learning and project-based curriculum, focusing on real-world skills.\
-Admission is based on potential and motivation, not academic background.\
-Candidates undergo an intensive four-week selection process called "La Piscine" to demonstrate their aptitude and dedication.\
-Graduates are highly sought after in the tech industry for their technical expertise and adaptability.\
-The school's unique approach and commitment to accessibility make it a leader in tech education.\
+# Piscine 42 - Exercises
 
-On this repository can be found all the exercises and projects that I've done during the Piscine of July 2024.
+## Description
+
+This repository contains the exercises completed during the **Piscine** at École 42.
+
+### What is École 42?
+
+École 42 is an innovative programming school founded in Paris, France. It offers a peer-to-peer learning environment, completely tuition-free, without teachers or formal classes. The curriculum is designed to foster problem-solving, autonomy, and collaboration, focusing on practical programming skills.
+
+### What is the Piscine?
+
+The **Piscine** (French for "swimming pool") is an intensive four-week coding bootcamp that serves as the entry point to École 42's program. Participants dive into programming without prior requirements, tackling daily challenges and projects in the C programming language. It’s designed to test adaptability, resilience, and collaboration in a high-pressure environment.
+
+The exercises in this repository focus on building a strong foundation in programming fundamentals, including:
+- Mastery of the C language syntax.
+- Memory management.
+- String manipulation.
+- Loops and conditionals.
+- Problem-solving and algorithmic thinking.
+
+Participants must also adhere to the **42 Norm**, a strict coding standard that enforces clean, structured, and efficient code.
